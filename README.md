@@ -31,6 +31,6 @@
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/>&nbsp; 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yy1300326388&show_icons=true" alt="yy1300326388" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yy1300326388&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="yy1300326388" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy1300326388&layout=compact" alt="yy1300326388" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy1300326388&layout=compact&theme=jolly" alt="yy1300326388" />
