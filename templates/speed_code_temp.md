@@ -16,8 +16,8 @@
 
 ### 👍 推荐软件 👍
 
-- [加速访问 GitHub 和下载编译依赖的🪜](https://bit.ly/3fcL0ND)
-- [我是使用它查高清的 YouTube 视频来学习 Flutter ](https://bit.ly/3fcL0ND)
+- [加速访问 `GitHub` 和下载编译依赖的🪜](https://bit.ly/3fcL0ND)
+- [我这 `2` 年使用它在 `YouTube` 上学习到了很多高清高质量的 `Flutter` 视频](https://bit.ly/3fcL0ND)
 
 > 一切推荐旨在学习，请勿用于非法用途
 
