@@ -5,7 +5,7 @@
 - 百万级 `Flutter` 应用架构经验
 
 <p>
-  <a href="zhengsl.blog.csdn.net">
+  <a href="https://zhengsl.blog.csdn.net">
     <img width="200" alt="csdn" src="https://raw.githubusercontent.com/yy1300326388/yy1300326388/main/images/follow/csdn_follow.png">
   </a>
   <a href="https://github.com/yy1300326388">
