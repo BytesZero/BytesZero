@@ -32,5 +32,10 @@
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yy1300326388&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="yy1300326388" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy1300326388&layout=compact&theme=jolly" alt="yy1300326388" />
+
+### 关注我 
+
+- 遇到问题可以找我帮助解决（联系在左侧）
+- 持续分享优质的 `Flutter` 文章和视频
+- 不定期分享 `Flutter` 开发小技巧
+- 百万级 `Flutter` 应用架构经验
