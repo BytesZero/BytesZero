@@ -1,3 +1,9 @@
+### 关注我
+
+- 遇到问题可以找我帮助解决（联系方式在 GitHub 主页）
+- 持续分享优质的 `Flutter` 文章和视频
+- 百万级 `Flutter` 应用架构经验
+
 <p>
   <a href="zhengsl.blog.csdn.net">
     <img width="200" alt="csdn" src="https://raw.githubusercontent.com/yy1300326388/yy1300326388/main/images/follow/csdn_follow.png">
