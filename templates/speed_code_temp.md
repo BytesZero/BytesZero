@@ -50,9 +50,11 @@
 
 ### ☕️ 喝杯咖啡 ☕️
 
-如果分享的内容可以帮助到你，可以来杯咖啡支持我哦
+如果分享的内容对你有帮助，可以来杯咖啡支持我
 
 <img src="https://github.com/yy1300326388/yy1300326388/blob/main/images/pay_qr_code/pay_qr_code.png" alt="QRcode" width="480"/>
+
+> 谢谢你的咖啡，可以通过主页联系我为你解答 1 个问题
 
 
 
