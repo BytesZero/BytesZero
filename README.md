@@ -3,7 +3,7 @@
 
 - 🔭 我目前在一家小而美的创业公司负责 App 研发
 - 🌱 我目前正在学习 [Flutter](flutter.dev)、[iOS](developer.apple.com)、[Android](https://developer.android.com/) ，我现在是 `Flutter` 和 `Dart` 的忠实粉丝
-- 💪 我正在坚持锻炼身体，用了`41`天减掉了`23`斤，我的目标是`135`斤并保持它（或许我们可以交流如何健康减肥的方法、因为我需要更充沛的体力用在工作💻和家庭🏠上）
+- 💪 我正在坚持锻炼身体，用了`2个月`减掉了`28`斤，我的目标是`135`斤并保持它（因为我需要更充沛的体力用在工作💻和家庭🏠上）
 - 💬 你有任何 `Flutter` 的问题，可以通过左侧的微信<img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" width="16" height="16"/>或邮件<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="16" height="16"/>联系到我
 - 👬 非常希望能和你成为朋友，一起交流学习 `Flutter `
 
