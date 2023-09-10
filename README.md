@@ -10,8 +10,8 @@
 - 🔭 我目前在一家小而美的创业公司担任移动端负责人
 - 🌱 我目前正在学习 [Flutter](https://flutter.dev)、[iOS](https://developer.apple.com)、[Android](https://developer.android.com/) ，我现在是 `Flutter` 和 `Dart` 的忠实粉丝
 - 💪 我正在坚持锻炼身体，`2个月`瘦了`28`斤，我的目标是`135`斤并保持它（因为我需要更充沛的体力用在工作💻和家庭🏠上）
-- 💬 你有任何 `Flutter` 的问题，可以通过左侧的微信 <img src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg" alt="wechat" width="16" height="16"/> 或邮件 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="16" height="16"/> 联系到我
-- 👬 非常希望能和你成为朋友，一起交流学习 `Flutter `
+- 💬 你可以和我一起交流学习 `Flutter`
+- 🦀 我目前正在学习 `Rust` 
 
 ### 关于我
 
@@ -24,11 +24,12 @@
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="22" height="22"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="22" height="22"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="figma" width="22" height="22"/>&nbsp;  
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="22" height="22"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="22" height="22"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="22" height="22"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_shell.svg" alt="Shell" width="22" height="22"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="22" height="22"/>&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sourcetree.svg" alt="SourceTree" width="22" height="22"/>&nbsp;
@@ -36,7 +37,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Shell" width="22" height="22"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="figma" width="22" height="22"/>&nbsp;
 
 </p>
 
