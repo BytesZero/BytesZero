@@ -7,7 +7,7 @@
     </p>
 </a>
 
-- 🔭 我目前在一家小而美的创业公司担任移动端负责人
+- 🔭 我目前在一家小而美的创业公司担任技术负责人
 - 🌱 我目前正在学习 [Flutter](https://flutter.dev)、[iOS](https://developer.apple.com)、[Android](https://developer.android.com/) ，我现在是 `Flutter` 和 `Dart` 的忠实粉丝
 - 💪 我正在坚持锻炼身体，`2个月`瘦了`28`斤，我的目标是`135`斤并保持它（因为我需要更充沛的体力用在工作💻和家庭🏠上）
 - 💬 你可以和我一起交流学习 `Flutter`
